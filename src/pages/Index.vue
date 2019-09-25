@@ -29,7 +29,7 @@
       relacionada amb la síndrome i també amb els seus pacients i familiars :-)
     </p>
     <p>    
-      Farem aquest cami junts.
+      Farem aquest cami junts, hem d'estar preparats i animats.
     </p>
 
   </Layout>
