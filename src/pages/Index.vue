@@ -25,7 +25,7 @@
       Benvinguts al web de l'Associació d'Afectats de la Síndrome de Marfan a Catalunya.
     </p>
     <p>    
-      Aquest web està ara com ara en construcció i el farem crèixer poc a poc per tal de poder-vos oferir tota la informació
+      Aquest web està ara com ara <b>en construcció</b>  i el farem crèixer poc a poc per tal de poder-vos oferir tota la informació
       relacionada amb la síndrome i també amb els seus pacients i familiars :-)
     </p>
     <p>    
