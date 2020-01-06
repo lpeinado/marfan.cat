@@ -9,6 +9,9 @@
       La Síndrome de Marfan és una malaltia minoritària i ens cal estar units i compartir tots els coneixements que anem acumulant
       per tal de fer-nos costat els uns als altres.
     </p>
+    <p>La raó de ser de l'Associació a Catalunya és treballar en la sensibilització vers la Síndrome de Marfan a
+      nivell local i oferir una ajuda propera als afectats.
+    </p>
   </Layout>
 </template>
 
