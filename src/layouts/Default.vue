@@ -7,6 +7,7 @@
       <nav class="nav">
         <g-link class="nav__link" to="/">Inici</g-link>
         <g-link class="nav__link" to="/about">Qui som?</g-link>
+        <g-link class="nav__link" to="/preguntes">Preguntes freqüents</g-link>
       </nav>
     </header>
     <slot/>

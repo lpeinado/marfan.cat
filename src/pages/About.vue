@@ -1,6 +1,10 @@
 <template>
   <Layout>
     <h1>Qui som?</h1>
+    <figure>
+      <g-image src="~/assets/qui_som.jpg" width="500" class="main-img"/>
+    </figure>
+    
     <p>
       Els afectats per la Síndrome de Marfan a Catalunya fa anys que ens hem associat i vam crear aquesta agrupació per tal de millorar
       la nostra qualitat de vida i compartir tota la informació necessària per tirar endevant. 
@@ -22,3 +26,12 @@ export default {
   }
 }
 </script>
+
+<style>
+.main-img{
+  transition: width 2s ease;
+}
+.main-img:hover {
+  width: 700px;
+}
+</style>
