@@ -10,7 +10,11 @@
         <g-link class="nav__link" to="/preguntes">Preguntes freqüents</g-link>
       </nav>
     </header>
-    <slot/>
+    <transition name="component-fade" appear>
+      <div>
+        <slot/>
+      </div>      
+    </transition>
   </div>
 </template>
 
@@ -47,5 +51,14 @@ body {
 
 .nav__link {
   margin-left: 20px;
+}
+
+
+.component-fade-enter-active, .component-fade-leave-active {
+  transition: opacity 1s ease;
+}
+.component-fade-enter, .component-fade-leave-to
+/* .component-fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
 }
 </style>
