@@ -8,6 +8,7 @@
         <g-link class="nav__link" to="/">Inici</g-link>
         <g-link class="nav__link" to="/about">Qui som?</g-link>
         <g-link class="nav__link" to="/preguntes">Preguntes freqüents</g-link>
+        <a class="nav__link" target="_blank" href="https://simacatalunya.blogspot.com/">Blog!</a>
       </nav>
     </header>
     <transition name="component-fade" appear>
